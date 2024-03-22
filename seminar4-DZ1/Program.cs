@@ -11,7 +11,7 @@ class Program
         while (!exit)
         {
             Console.WriteLine("Введите целое число или 'q' для выхода:");
-            string input = Console.ReadLine( );
+            string input = Console.ReadLine();
 
             if (input == "q")
             {
